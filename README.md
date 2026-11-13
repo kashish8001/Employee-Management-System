@@ -1030,25 +1030,3 @@ This guide enables you to view, test, and utilize the API. Feel free to explore 
   ```bash
   npm start --verbose
   ```
-
-## Contributing
-
-If you'd like to contribute to the project, please fork the repository and submit a pull request with your changes. Ensure that you follow the project's coding standards and include relevant tests for new features.
-
-## License
-
-This project is licensed under the **MIT License.** See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or issues, please contact [hoangson091104@gmail.com](mailto:hoangson091104@gmail.com).
-
----
-
-Thank you for checking out the **Employee Management Full-Stack Application!** Feel free to use this project for your own learning or development purposes.
-
-Created with ❤️ by [Son Nguyen](https://github.com/hoangsonww) in 2024.
-
----
-
-**[⬆ Back to Top](#employee-management-full-stack-application)**
